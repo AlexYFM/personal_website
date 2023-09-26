@@ -1,0 +1,9 @@
+#personal-image{
+    height: 100px;
+    border-radius: 50%;
+}
+
+#intro-container{
+    background-image: url('../assets/images/17545.jpg');
+    background-repeat: no-repeat; 
+}
